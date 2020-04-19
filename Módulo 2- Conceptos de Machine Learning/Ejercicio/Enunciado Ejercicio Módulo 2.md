@@ -2,8 +2,8 @@
 
 Para este ejercicio, contarás con dos conjuntos de datos: 
 
-•	`regression.csv` contiene los resultados de un modelo de regresión del precio de una serie de coches, basados en sus caracterísitcas. 
-•	`classification.csv` contiene los resultados de un análisis de cáncer, indicando si una serie de tumores fueron benignos (0) o malignos (1), basado en una serie de factores.
+*	`regression.csv` contiene los resultados de un modelo de regresión del precio de una serie de coches, basados en sus caracterísitcas. 
+*	`classification.csv` contiene los resultados de un análisis de cáncer, indicando si una serie de tumores fueron benignos (0) o malignos (1), basado en una serie de factores.
 
 
 
